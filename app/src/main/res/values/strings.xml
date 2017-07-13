@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GSLDemo</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="order_flowers">Order Flowers!</string>
+    <string name="payment_succesful">Payment successful!</string>
+    <string name="permission_not_granted">Permission not granted</string>
+</resources>
